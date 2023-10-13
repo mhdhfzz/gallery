@@ -1,1 +1,1 @@
-[Live Demo](https://nextz06.github.io/gallery/)
+[Live Demo](https://muhammad-hafizz.github.io/gallery/)
