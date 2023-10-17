@@ -1,1 +1,1 @@
-[Live Demo](https://muhammad-hafizz.github.io/gallery/)
+[Live Demo](https://mhdhfzz.github.io/gallery/)
